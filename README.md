@@ -58,8 +58,8 @@ Follow the steps below to set up and run the HTTP service locally and deploy it 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/s3-bucket-content-service.git
-    cd s3-bucket-content-service
+    git clone https://github.com/yashnathe/Equip-Task.git
+    cd Equip9-Task
     ```
 
 2. Install the required Python packages:
