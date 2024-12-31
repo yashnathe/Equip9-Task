@@ -141,4 +141,4 @@ For example:
 
 ### 2. Word Documents:
 - [Word Document 1 Link](https://docs.google.com/document/d/12JNZEOzs7JwKQ1iNH53X3gs3vZ97shSk/edit?usp=sharing&ouid=101179812942141955701&rtpof=true&sd=true)
-- [Word Document 2 Link](https://docs.google.com/document/d/12JNZEOzs7JwKQ1iNH53X3gs3vZ97shSk/edit?usp=sharing&ouid=101179812942141955701&rtpof=true&sd=true)
+- [Word Document 2 Link](https://docs.google.com/document/d/16mrXe2l78_DzMKgyA4ukr09nSdt3ZRu3/edit?usp=sharing&ouid=101179812942141955701&rtpof=true&sd=true)
